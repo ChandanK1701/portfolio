@@ -201,10 +201,6 @@ h4:hover {
     flex-direction: column;
 }
 
-.social-contact {
-    text-align: center;
-}
-
 input[type="text"],
 input[type="email"],
 textarea {
@@ -243,6 +239,10 @@ svg {
     height: 60px;
     border: 2px solid #fff;
     border-radius: 15px;
+}
+
+.social-contact {
+    text-align: center;
 }
 
 .social-contact svg {
